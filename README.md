@@ -1,2 +1,2 @@
-# Taller_Integrador_S2_2025
-Repositorio para Taller Integrador S2 2025
+# Taller Integrador S1 2026
+Repositorio para Taller Integrador S1 2026
